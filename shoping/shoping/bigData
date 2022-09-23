@@ -1,0 +1,28 @@
+{"response": [
+    {
+        "iphone14Series": "Iphone",
+        "products": [
+            {
+                "name": "iphone14",
+                "imagename": "iphone14",
+                
+            },
+            {
+                "name": "iphone14Plus",
+                "imagename": "iphone14Plus",
+               
+            },
+            {
+                "name": "iphone14Pro",
+                "imagename": "iphone14Pro",
+               
+            },
+            {
+                "name": "iphone14ProMax",
+                "imagename": "iphone14ProMax",
+           
+            }
+        ]
+    }
+]
+}
